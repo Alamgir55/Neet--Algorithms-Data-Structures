@@ -7,10 +7,15 @@ names = ['Adam', 'Kevin', 'Anna', 'Joe', 'Danial', 'Bill']
 #     if nums % 2 == 0:
 #         new_list.append(nums)
 
-filter_name = [name for name in names if len(name) == 4]
+# filter_name = [name for name in names if len(name) == 4]
 
-# for name in names:
-#     if name.startswith('A'):
-#         filter_name.append(name)
+# # for name in names:
+# #     if name.startswith('A'):
+# #         filter_name.append(name)
 
-print(filter_name)
+# print(filter_name)
+
+n = 5666 // 10
+
+
+print(n)
